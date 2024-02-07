@@ -1227,7 +1227,7 @@ class Support_SensorBase(SensorEntity):
         """Return information about the device """
         return DeviceInfo(  identifiers = {(DOMAIN, DOMAIN)},
                             manufacturer = 'gcobb321',
-                            model        = 'Intergration',
+                            model        = 'Integration',
                             name         = 'iCloud3 Integration'
                         )
 
